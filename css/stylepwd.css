@@ -1,0 +1,10 @@
+.campoC{
+    width: 700px;
+    padding-top: 20px;
+    border-bottom: 1px solid rgb(211, 217, 219);
+}
+
+.back{
+    background-color: rgb(169, 168, 187);
+    font-size: 20px;
+}

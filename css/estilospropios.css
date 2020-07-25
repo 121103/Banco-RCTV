@@ -1,0 +1,24 @@
+img{
+	width: 100%;
+}
+
+
+
+.titulo{
+	color: white;
+	font-size: 60px;
+	background: black;
+	text-align: center;
+}
+
+.parrafo{
+	background: gray;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.subtitulo{
+
+	padding-top: 20px;
+	border-bottom: 1px solid red;
+}
